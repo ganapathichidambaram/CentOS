@@ -1,0 +1,6 @@
+<multibuild>
+    <package>CentOS-cd-mini-x86_64</package>
+    <flavor>OEM</flavor>
+    <flavor>Virtual</flavor>
+    <flavor>Live</flavor>
+</multibuild>
